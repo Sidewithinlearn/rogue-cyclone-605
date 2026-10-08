@@ -1,0 +1,13 @@
+{
+  "name": "sample-app",
+  "version": "1.14.2",
+  "log_level": "debug",
+  "cache": {
+    "enabled": true,
+    "ttl_seconds": 300
+  },
+  "output": {
+    "dir": "out",
+    "format": "json"
+  }
+}
